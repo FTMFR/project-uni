@@ -1,0 +1,26 @@
+this site has 4 page, such as: 1.home 2.blog 3.bookList 4.about us
+
+URLs: 
+1.home => index.html
+2.blog => blog.html
+3.bookList => booklist.html
+4.about => about.html
+
+first you run index.html and then you can navigate on other pages.
+
+** you can use live server **
+
+
+Our Website Structure:
+
+This website is comprised of four distinct pages, each serving a specific purpose:
+
+    Homepage: This serves as the entry point for visitors, providing a comprehensive overview of our offerings and guiding them to explore other sections.
+
+    Blog: This dynamic page acts as a platform for sharing informative articles,
+
+ insightful blog posts, or even showcasing our portfolio.
+
+Book List: This interactive section leverages JavaScript functionality to allow users to add books with specific details. These entries are then dynamically displayed in a clear and organized manner within the page.
+
+About Us: This dedicated page fosters transparency and trust by providing valuable information about our website, products, and team. This section allows potential clients to gain a deeper understanding of our company and its mission.
